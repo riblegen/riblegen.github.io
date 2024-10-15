@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://riblegen.github.io/sitemap.html.gz
+Sitemap: https://riblegen.github.io/app/sitemap.html.gz
+Sitemap: https://riblegen.github.io/assets/sitemap.html.gz
+Sitemap: https://riblegen.github.io/css/sitemap.html.gz
+Sitemap: https://riblegen.github.io/includes/sitemap.html.gz
+Sitemap: https://riblegen.github.io/item/sitemap.html.gz
+Sitemap: https://riblegen.github.io/src/sitemap.html.gz
